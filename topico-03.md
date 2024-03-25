@@ -3,11 +3,11 @@
 
 Distinga os seguintes termos, use os Capítulos 1 e 2 do livro Elmasri&Navathe [1].
 
-    1. Banco de dados
-    2. Dado
-    3. Tipo de dado
-    4. Meta-dado
-    5. Tamanho e complexidade do banco de dados
+    1. Banco de dados: Uma coleção de dados relacionada, com significado implícito.
+    2. Dado: fato conhecido que pode ser registrado e possuí significado implícito (ou explícito, a depender do dado, como por exemplo o preço de um item, em uma tabela de produtos de supermercado).
+    3. Tipo de dado: Cada componente do banco de dados deve ter seu tipo definido, como por exemplo, o nome do aluno, a nota dele, o número de matrícula.
+    4. Meta-dado: É a definição descritiva do BD armazenada pelo SGBD em forma de catálogo ou dicionário.
+    5. Tamanho e complexidade do banco de dados: 
     6. Banco de dados mantido manualmente ou informatizado
     7. Sistema de gerenciador de banco de dados (SGBD)
     8. Definição, construção, manipulação de um banco de dados
