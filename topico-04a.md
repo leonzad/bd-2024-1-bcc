@@ -46,10 +46,10 @@ Leia e releia os requisitos de dados pertinentes ao **BD Empresa**.
 
 1. Identifique 05 (cinco) pontos de imprecisão nos requisitos de dados, conforme o exemplo abaixo:<br>
 **Ponto 1:** Não está claro se um dependente é obrigatoriamente um parente do seu empregado responsável.<br>
-**Ponto 2:** ...<br>
-**Ponto 3:** ...<br>
-**Ponto 4:** ...<br>
-**Ponto 5:** ...
+**Ponto 2:** ... Não há uma data de admissão do funcionário na empresa.<br>
+**Ponto 3:** ... Não há um campo de data de demissão do funcionário.<br>
+**Ponto 4:** ... Não há um campo que diz se o funcionário está atualmente trabalhando na empresa (seja por estar de férias, seja por demissão)<br>
+**Ponto 5:** ... Há menção do departamento, mas não é mencionado que ele é armazenado.<br>
 1. Elabore 05 consultas (demandas informacionais) que podem ser respondidas a partir dos requisitos de dados, conforme o exemplo abaixo:<br>
 **Consulta 1:** Qual o nome dos funcionários que são supervisores e gerentes de departamento?<br>
 **Consulta 2:** ...<br>
